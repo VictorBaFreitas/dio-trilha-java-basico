@@ -1,3 +1,4 @@
+package javaBasico;
 import java.sql.Date;
 
 public class tiposVariaveis {

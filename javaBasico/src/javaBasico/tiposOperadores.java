@@ -1,3 +1,4 @@
+package javaBasico;
 public class tiposOperadores {
     public static void main(String[] args) {
         //Operador de Atribuição
